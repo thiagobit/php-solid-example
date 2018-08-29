@@ -1,0 +1,19 @@
+{
+    "name": "thiagobit/php-solid-example",
+    "description": "PHP code example following SOLID concepts with tests",
+    "authors": [
+        {
+            "name": "Thiago Bittencourt",
+            "email": "thiagobitt86@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ThiagoBit\\Solid\\": "src"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7.3"
+    }
+}
